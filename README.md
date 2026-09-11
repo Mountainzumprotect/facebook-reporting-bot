@@ -62,12 +62,11 @@ How Can I Get the Tool or Submit a Report? 📩
 • Review the available information and demonstrations.
 • Contact us through the Telegram username provided with the relevant service.
 
-⸻
+⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻
 
 Legal Notice ⚠️
+<p>
 This tool is intended only for legitimate reporting and moderation-related purposes. Users must provide truthful information and comply with Facebook’s Terms of Service, Community Standards, and applicable laws.
 The tool does not guarantee account removal, suspension, restriction, or any other enforcement action. Users are solely responsible for the reports they submit and for ensuring that their use of the service does not constitute harassment, abuse, spam, or manipulation of Facebook’s reporting systems.
-
-⸻
 
 ==============================================
