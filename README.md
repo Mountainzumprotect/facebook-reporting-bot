@@ -9,6 +9,7 @@ A Facebook reporting bot or automation tool is software designed to simplify and
 Instead of manually navigating through multiple reporting screens, an automation system can assist with repetitive, legitimate reporting tasks while keeping the reporting process structured and consistent.
 </p>
 How Does the Reporting System Work? ❓
+<p>
 A typical reporting workflow can contain several stages:
 <p>
 • 1. Target identification — the user specifies the profile, page, post, or other content that needs to be reviewed.
